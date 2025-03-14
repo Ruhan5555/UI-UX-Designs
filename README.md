@@ -5,7 +5,7 @@ Access Interactive UI Design Links from here:
 
 - [Apple's Website Home Page](https://www.figma.com/proto/bKTs3bY4IhI9dN19qUstpt/Apple's-site?page-id=0%3A1&node-id=1-293&p=f&viewport=241%2C56%2C0.17&t=YHk1aXzEvp4o8kYh-1&scaling=min-zoom&content-scaling=fixed)
 
-- [Ecommerce Clothes Store Website Design](https://www.figma.com/proto/pl8BZim3hHjF8VHRJ5DnJ1/Online-Apparel-Store?page-id=0%3A1&node-id=54-251&viewport=604%2C300%2C0.06&t=XeCGrXkOFmRBQOGe-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=54%3A251)
+- [Ecommerce Clothes Store Website](https://www.figma.com/proto/pl8BZim3hHjF8VHRJ5DnJ1/Online-Apparel-Store?page-id=0%3A1&node-id=54-251&viewport=604%2C300%2C0.06&t=XeCGrXkOFmRBQOGe-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=54%3A251)
 
 - [Food Delivery App](https://www.figma.com/proto/cydrEVHRRDcZ89s6Iz0UDM/Portfolio-(Food-Shop)?page-id=0%3A1&node-id=3-2&p=f&viewport=478%2C293%2C0.34&t=e2n2UWn83RynlgSG-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=3%3A2)
 
